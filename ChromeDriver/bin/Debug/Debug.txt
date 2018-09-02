@@ -1,0 +1,209 @@
+12/08/2018 636697034379271538_COOKIE INFO: name = GUNNYID, value =hced7k1urlfqa8dcc4f8fkai24,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034379271538_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:44:57 PM, http_only = False
+12/08/2018 636697034379271538_COOKIE INFO: name = _gid, value =GA1.2.687907720.1534081437,domain = .360game.vn, expiry = 8/13/2018 8:43:57 PM, http_only = False
+12/08/2018 636697034379271538_COOKIE INFO: name = _ga, value =GA1.2.1100801387.1534081437,domain = .360game.vn, expiry = 8/11/2020 8:43:57 PM, http_only = False
+12/08/2018 BROWSER INFO: level =Warning, message =http://idgunny.360game.vn/login-game?&sid=none&err=1 - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534081436684&a=gunny360&un=&topref=&sid=none&err=1 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/onlinetracking/auth?callback=jQuery17101006001450133922_1534081436615&_=1534081436776 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 636697034409633814_COOKIE INFO: name = GUNNYID, value =hced7k1urlfqa8dcc4f8fkai24,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034409633814_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:44:57 PM, http_only = False
+12/08/2018 636697034409633814_COOKIE INFO: name = _gid, value =GA1.2.687907720.1534081437,domain = .360game.vn, expiry = 8/13/2018 8:43:57 PM, http_only = False
+12/08/2018 636697034409633814_COOKIE INFO: name = _ga, value =GA1.2.1100801387.1534081437,domain = .360game.vn, expiry = 8/11/2020 8:43:57 PM, http_only = False
+12/08/2018 636697034439720791_COOKIE INFO: name = GUNNYID, value =hced7k1urlfqa8dcc4f8fkai24,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034439720791_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:44:57 PM, http_only = False
+12/08/2018 636697034439720791_COOKIE INFO: name = _gid, value =GA1.2.687907720.1534081437,domain = .360game.vn, expiry = 8/13/2018 8:43:57 PM, http_only = False
+12/08/2018 636697034439720791_COOKIE INFO: name = _ga, value =GA1.2.1100801387.1534081437,domain = .360game.vn, expiry = 8/11/2020 8:43:57 PM, http_only = False
+12/08/2018 636697034469807720_COOKIE INFO: name = GUNNYID, value =hced7k1urlfqa8dcc4f8fkai24,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034469807720_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:44:57 PM, http_only = False
+12/08/2018 636697034469807720_COOKIE INFO: name = _gid, value =GA1.2.687907720.1534081437,domain = .360game.vn, expiry = 8/13/2018 8:43:57 PM, http_only = False
+12/08/2018 636697034469807720_COOKIE INFO: name = _ga, value =GA1.2.1100801387.1534081437,domain = .360game.vn, expiry = 8/11/2020 8:43:57 PM, http_only = False
+12/08/2018 636697034499908198_COOKIE INFO: name = GUNNYID, value =hced7k1urlfqa8dcc4f8fkai24,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034499908198_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:44:57 PM, http_only = False
+12/08/2018 636697034499908198_COOKIE INFO: name = _gid, value =GA1.2.687907720.1534081437,domain = .360game.vn, expiry = 8/13/2018 8:44:09 PM, http_only = False
+12/08/2018 636697034499908198_COOKIE INFO: name = _ga, value =GA1.2.1100801387.1534081437,domain = .360game.vn, expiry = 8/11/2020 8:44:09 PM, http_only = False
+12/08/2018 636697034499908198_COOKIE INFO: name = vngauth, value =ewcZoS8IY6IKAnygXiw61yd1DZgvHW_xfhIWrltwOac,domain = .360game.vn, expiry = , http_only = False
+12/08/2018 636697034499908198_COOKIE INFO: name = session_info, value =ewcZoS8IY6IKAnygXiw61yd1DZgvHW_xfhIWrltwOac,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 BROWSER INFO: level =Severe, message =http://idgunny.360game.vn/server-game?&sid=none&err=1&mess=succ&sid=ewcZoS8IY6IKAnygXiw61yd1DZgvHW_xfhIWrltwOac 868:41 Uncaught ReferenceError: objAds is not defined
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534081449107&a=gunny360&un=waygogo&topref=http%3A%2F%2Fidgunny.360game.vn%2Flogin-game%3F%26sid%3Dnone%26err%3D1&sid=ewcZoS8IY6IKAnygXiw61yd1DZgvHW_xfhIWrltwOac&err=1&mess=succ - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://css.f.360game.vn/v1/images/logo_360_small.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)
+12/08/2018 636697034530006500_COOKIE INFO: name = GUNNYID, value =hced7k1urlfqa8dcc4f8fkai24,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034530006500_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:44:57 PM, http_only = False
+12/08/2018 636697034530006500_COOKIE INFO: name = _gid, value =GA1.2.687907720.1534081437,domain = .360game.vn, expiry = 8/13/2018 8:44:09 PM, http_only = False
+12/08/2018 636697034530006500_COOKIE INFO: name = _ga, value =GA1.2.1100801387.1534081437,domain = .360game.vn, expiry = 8/11/2020 8:44:09 PM, http_only = False
+12/08/2018 636697034530006500_COOKIE INFO: name = vngauth, value =ewcZoS8IY6IKAnygXiw61yd1DZgvHW_xfhIWrltwOac,domain = .360game.vn, expiry = , http_only = False
+12/08/2018 636697034530006500_COOKIE INFO: name = session_info, value =ewcZoS8IY6IKAnygXiw61yd1DZgvHW_xfhIWrltwOac,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034560092498_COOKIE INFO: name = GUNNYID, value =hced7k1urlfqa8dcc4f8fkai24,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034560092498_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:44:57 PM, http_only = False
+12/08/2018 636697034560092498_COOKIE INFO: name = _gid, value =GA1.2.687907720.1534081437,domain = .360game.vn, expiry = 8/13/2018 8:44:15 PM, http_only = False
+12/08/2018 636697034560092498_COOKIE INFO: name = _ga, value =GA1.2.1100801387.1534081437,domain = .360game.vn, expiry = 8/11/2020 8:44:15 PM, http_only = False
+12/08/2018 636697034560092498_COOKIE INFO: name = vngauth, value =ewcZoS8IY6IKAnygXiw61yd1DZgvHW_xfhIWrltwOac,domain = .360game.vn, expiry = , http_only = False
+12/08/2018 636697034560092498_COOKIE INFO: name = session_info, value =ewcZoS8IY6IKAnygXiw61yd1DZgvHW_xfhIWrltwOac,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697034590182352_COOKIE INFO: name = GUNNYID, value =hced7k1urlfqa8dcc4f8fkai24,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697040734408280_COOKIE INFO: name = GUNNYID, value =5g6hiboac2daip8djhnv2o49h1,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697040734408280_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:55:32 PM, http_only = False
+12/08/2018 636697040734408280_COOKIE INFO: name = _gid, value =GA1.2.1557325871.1534082072,domain = .360game.vn, expiry = 8/13/2018 8:54:32 PM, http_only = False
+12/08/2018 636697041501665454_COOKIE INFO: name = GUNNYID, value =4dpdat0fs0bv7d4j2ul4lc6c43,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697041501665454_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:56:49 PM, http_only = False
+12/08/2018 636697041501665454_COOKIE INFO: name = _gid, value =GA1.2.1784355156.1534082150,domain = .360game.vn, expiry = 8/13/2018 8:55:49 PM, http_only = False
+12/08/2018 636697041501665454_COOKIE INFO: name = _ga, value =GA1.2.1456267959.1534082150,domain = .360game.vn, expiry = 8/11/2020 8:55:49 PM, http_only = False
+12/08/2018 BROWSER INFO: level =Warning, message =http://idgunny.360game.vn/login-game?&sid=none&err=1 - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534082148877&a=gunny360&un=&topref=&sid=none&err=1 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/onlinetracking/auth?callback=jQuery17103607993773750455_1534082148812&_=1534082148930 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 636697041949682290_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697041949682290_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697041949682290_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697041949682290_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 BROWSER INFO: level =Warning, message =http://idgunny.360game.vn/login-game?&sid=none&err=1 - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534082193669&a=gunny360&un=&topref=&sid=none&err=1 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/onlinetracking/auth?callback=jQuery171037904455165466033_1534082193601&_=1534082193708 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 636697041979885594_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697041979885594_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697041979885594_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697041979885594_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042009986510_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042009986510_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042009986510_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042009986510_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042040085436_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042040085436_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042040085436_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042040085436_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042070172989_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042070172989_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042070172989_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042070172989_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042100273099_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042100273099_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042100273099_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042100273099_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042130373513_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042130373513_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042130373513_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042130373513_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042160459416_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042160459416_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042160459416_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042160459416_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042190582502_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042190582502_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042190582502_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042190582502_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042220678976_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042220678976_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042220678976_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042220678976_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042250765396_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042250765396_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042250765396_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042250765396_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042280858768_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042280858768_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042280858768_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042280858768_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042310940988_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042310940988_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042310940988_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042310940988_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042341025368_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042341025368_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042341025368_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042341025368_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042371118128_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042371118128_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042371118128_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042371118128_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042401208120_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042401208120_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042401208120_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042401208120_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042431306588_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042431306588_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042431306588_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042431306588_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042461399210_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042461399210_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042461399210_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042461399210_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697042491477929_COOKIE INFO: name = GUNNYID, value =ruj021c0env69b270sp22dkga4,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697042491477929_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 8:57:34 PM, http_only = False
+12/08/2018 636697042491477929_COOKIE INFO: name = _gid, value =GA1.2.99407773.1534082194,domain = .360game.vn, expiry = 8/13/2018 8:56:34 PM, http_only = False
+12/08/2018 636697042491477929_COOKIE INFO: name = _ga, value =GA1.2.1655179946.1534082194,domain = .360game.vn, expiry = 8/11/2020 8:56:34 PM, http_only = False
+12/08/2018 636697051044717595_COOKIE INFO: name = GUNNYID, value =l8immqkcebrenmjjsbr84h1vh2,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697051044717595_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:12:43 PM, http_only = False
+12/08/2018 636697051044717595_COOKIE INFO: name = _gid, value =GA1.2.1000588975.1534083104,domain = .360game.vn, expiry = 8/13/2018 9:11:43 PM, http_only = False
+12/08/2018 636697051044717595_COOKIE INFO: name = _ga, value =GA1.2.1375654919.1534083104,domain = .360game.vn, expiry = 8/11/2020 9:11:43 PM, http_only = False
+12/08/2018 BROWSER INFO: level =Warning, message =http://idgunny.360game.vn/login-game?&sid=none&err=1 - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534083103151&a=gunny360&un=&topref=&sid=none&err=1 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/onlinetracking/auth?callback=jQuery17106583888013334147_1534083103082&_=1534083103219 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 636697051074934672_COOKIE INFO: name = GUNNYID, value =l8immqkcebrenmjjsbr84h1vh2,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697051074934672_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:12:43 PM, http_only = False
+12/08/2018 636697051074934672_COOKIE INFO: name = _gid, value =GA1.2.1000588975.1534083104,domain = .360game.vn, expiry = 8/13/2018 9:11:43 PM, http_only = False
+12/08/2018 636697051074934672_COOKIE INFO: name = _ga, value =GA1.2.1375654919.1534083104,domain = .360game.vn, expiry = 8/11/2020 9:11:43 PM, http_only = False
+12/08/2018 636697051105039563_COOKIE INFO: name = GUNNYID, value =l8immqkcebrenmjjsbr84h1vh2,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697051105039563_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:12:43 PM, http_only = False
+12/08/2018 636697051105039563_COOKIE INFO: name = _gid, value =GA1.2.1000588975.1534083104,domain = .360game.vn, expiry = 8/13/2018 9:11:43 PM, http_only = False
+12/08/2018 636697051105039563_COOKIE INFO: name = _ga, value =GA1.2.1375654919.1534083104,domain = .360game.vn, expiry = 8/11/2020 9:11:43 PM, http_only = False
+12/08/2018 636697063284031476_COOKIE INFO: name = GUNNYID, value =59e61f1l8ocehcor6l6n0kivs2,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697063284031476_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:33:07 PM, http_only = False
+12/08/2018 636697063284031476_COOKIE INFO: name = _gid, value =GA1.2.1578765775.1534084328,domain = .360game.vn, expiry = 8/13/2018 9:32:07 PM, http_only = False
+12/08/2018 636697063284031476_COOKIE INFO: name = _ga, value =GA1.2.676092156.1534084328,domain = .360game.vn, expiry = 8/11/2020 9:32:07 PM, http_only = False
+12/08/2018 BROWSER INFO: level =Warning, message =http://idgunny.360game.vn/login-game?&sid=none&err=1 - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534084327080&a=gunny360&un=&topref=&sid=none&err=1 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/onlinetracking/auth?callback=jQuery17104466973687876812_1534084326984&_=1534084327138 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 636697063314801864_COOKIE INFO: name = GUNNYID, value =59e61f1l8ocehcor6l6n0kivs2,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697063314801864_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:33:07 PM, http_only = False
+12/08/2018 636697063314801864_COOKIE INFO: name = _gid, value =GA1.2.1578765775.1534084328,domain = .360game.vn, expiry = 8/13/2018 9:32:07 PM, http_only = False
+12/08/2018 636697063314801864_COOKIE INFO: name = _ga, value =GA1.2.676092156.1534084328,domain = .360game.vn, expiry = 8/11/2020 9:32:07 PM, http_only = False
+12/08/2018 636697063351589724_COOKIE INFO: name = GUNNYID, value =59e61f1l8ocehcor6l6n0kivs2,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697063351589724_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:33:07 PM, http_only = False
+12/08/2018 636697063351589724_COOKIE INFO: name = _gid, value =GA1.2.1578765775.1534084328,domain = .360game.vn, expiry = 8/13/2018 9:32:14 PM, http_only = False
+12/08/2018 636697063351589724_COOKIE INFO: name = _ga, value =GA1.2.676092156.1534084328,domain = .360game.vn, expiry = 8/11/2020 9:32:14 PM, http_only = False
+12/08/2018 636697063351589724_COOKIE INFO: name = vngauth, value =ewdmsQ4MTJgKAgHqXixHnSd1cNIvFBHkdClJ5FtwRO0,domain = .360game.vn, expiry = , http_only = False
+12/08/2018 636697063351589724_COOKIE INFO: name = session_info, value =ewdmsQ4MTJgKAgHqXixHnSd1cNIvFBHkdClJ5FtwRO0,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 BROWSER INFO: level =Severe, message =http://idgunny.360game.vn/server-game?&sid=none&err=1&mess=succ&sid=ewdmsQ4MTJgKAgHqXixHnSd1cNIvFBHkdClJ5FtwRO0 868:41 Uncaught ReferenceError: objAds is not defined
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534084334782&a=gunny360&un=waygogo&topref=http%3A%2F%2Fidgunny.360game.vn%2Flogin-game%3F%26sid%3Dnone%26err%3D1&sid=ewdmsQ4MTJgKAgHqXixHnSd1cNIvFBHkdClJ5FtwRO0&err=1&mess=succ - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://css.f.360game.vn/v1/images/logo_360_small.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)
+12/08/2018 636697063900497704_COOKIE INFO: name = GUNNYID, value =f9c6ou19tb5b70d3ocg00gnke1,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697063900497704_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:34:09 PM, http_only = False
+12/08/2018 636697063900497704_COOKIE INFO: name = _gid, value =GA1.2.448985588.1534084390,domain = .360game.vn, expiry = 8/13/2018 9:33:09 PM, http_only = False
+12/08/2018 636697063900497704_COOKIE INFO: name = _ga, value =GA1.2.156834708.1534084390,domain = .360game.vn, expiry = 8/11/2020 9:33:09 PM, http_only = False
+12/08/2018 BROWSER INFO: level =Warning, message =http://idgunny.360game.vn/login-game?&sid=none&err=1 - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534084388829&a=gunny360&un=&topref=&sid=none&err=1 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/onlinetracking/auth?callback=jQuery17102374183108275485_1534084388745&_=1534084388866 - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 636697063931261302_COOKIE INFO: name = GUNNYID, value =f9c6ou19tb5b70d3ocg00gnke1,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697063931261302_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:34:09 PM, http_only = False
+12/08/2018 636697063931261302_COOKIE INFO: name = _gid, value =GA1.2.448985588.1534084390,domain = .360game.vn, expiry = 8/13/2018 9:33:10 PM, http_only = False
+12/08/2018 636697063931261302_COOKIE INFO: name = _ga, value =GA1.2.156834708.1534084390,domain = .360game.vn, expiry = 8/11/2020 9:33:10 PM, http_only = False
+12/08/2018 636697063931261302_COOKIE INFO: name = vngauth, value =ewdoUg4qKlMKAgAiXixGVSd1cRovH04IDgcXLFtwRSU,domain = .360game.vn, expiry = , http_only = False
+12/08/2018 636697063931261302_COOKIE INFO: name = session_info, value =ewdoUg4qKlMKAgAiXixGVSd1cRovH04IDgcXLFtwRSU,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 BROWSER INFO: level =Severe, message =http://idgunny.360game.vn/server-game?&sid=none&err=1&mess=succ&sid=ewdoUg4qKlMKAgAiXixGVSd1cRovH04IDgcXLFtwRSU 868:41 Uncaught ReferenceError: objAds is not defined
+12/08/2018 BROWSER INFO: level =Severe, message =http://360game.vn/trackingcode/log?t=1534084390776&a=gunny360&un=waygogo&topref=http%3A%2F%2Fidgunny.360game.vn%2Flogin-game%3F%26sid%3Dnone%26err%3D1&sid=ewdoUg4qKlMKAgAiXixGVSd1cRovH04IDgcXLFtwRSU&err=1&mess=succ - Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+12/08/2018 BROWSER INFO: level =Severe, message =http://css.f.360game.vn/v1/images/logo_360_small.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)
+12/08/2018 636697063961358471_COOKIE INFO: name = GUNNYID, value =f9c6ou19tb5b70d3ocg00gnke1,domain = idgunny.360game.vn, expiry = , http_only = False
+12/08/2018 636697063961358471_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/12/2018 9:34:09 PM, http_only = False
+12/08/2018 636697063961358471_COOKIE INFO: name = _gid, value =GA1.2.448985588.1534084390,domain = .360game.vn, expiry = 8/13/2018 9:33:10 PM, http_only = False
+12/08/2018 636697063961358471_COOKIE INFO: name = _ga, value =GA1.2.156834708.1534084390,domain = .360game.vn, expiry = 8/11/2020 9:33:10 PM, http_only = False
+12/08/2018 636697063961358471_COOKIE INFO: name = vngauth, value =ewdoUg4qKlMKAgAiXixGVSd1cRovH04IDgcXLFtwRSU,domain = .360game.vn, expiry = , http_only = False
+12/08/2018 636697063961358471_COOKIE INFO: name = session_info, value =ewdoUg4qKlMKAgAiXixGVSd1cRovH04IDgcXLFtwRSU,domain = idgunny.360game.vn, expiry = , http_only = False
+17/08/2018 636700960116488458_COOKIE INFO: name = GUNNYID, value =7cub04ao2sme1b33o7bmdt7905,domain = idgunny.360game.vn, expiry = , http_only = False
+17/08/2018 636700960116488458_COOKIE INFO: name = track.uuid, value =STzTOxs80z9Sa9JpR3DQbUo7yWMbZdJ3R2_UaU5sh2oZPoFjf13kWg,domain = .360game.vn, expiry = , http_only = True
+17/08/2018 636700960116488458_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/17/2018 9:47:50 AM, http_only = False
+17/08/2018 636700960116488458_COOKIE INFO: name = _gid, value =GA1.2.402723293.1534474010,domain = .360game.vn, expiry = 8/18/2018 9:46:50 AM, http_only = False
+17/08/2018 636700960116488458_COOKIE INFO: name = _ga, value =GA1.2.660231161.1534474010,domain = .360game.vn, expiry = 8/16/2020 9:46:50 AM, http_only = False
+17/08/2018 BROWSER INFO: level =Warning, message =http://idgunny.360game.vn/login-game?&sid=none&err=1 - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+17/08/2018 636700960168455908_COOKIE INFO: name = GUNNYID, value =7cub04ao2sme1b33o7bmdt7905,domain = idgunny.360game.vn, expiry = , http_only = False
+17/08/2018 636700960168455908_COOKIE INFO: name = track.uuid, value =STzTOxs80z9Sa9JpR3DQbUo7yWMbZdJ3R2_UaU5sh2oZPoFjf13kWg,domain = .360game.vn, expiry = , http_only = True
+17/08/2018 636700960168455908_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/17/2018 9:47:50 AM, http_only = False
+17/08/2018 636700960168455908_COOKIE INFO: name = _gid, value =GA1.2.402723293.1534474010,domain = .360game.vn, expiry = 8/18/2018 9:46:55 AM, http_only = False
+17/08/2018 636700960168455908_COOKIE INFO: name = _ga, value =GA1.2.660231161.1534474010,domain = .360game.vn, expiry = 8/16/2020 9:46:55 AM, http_only = False
+17/08/2018 636700960168455908_COOKIE INFO: name = vngauth, value =eQEVfhoteR8NLnIbXio0bCdzAyMvFSQ8dwEcFVt2Nxw,domain = .360game.vn, expiry = , http_only = False
+17/08/2018 636700960168455908_COOKIE INFO: name = session_info, value =eQEVfhoteR8NLnIbXio0bCdzAyMvFSQ8dwEcFVt2Nxw,domain = idgunny.360game.vn, expiry = , http_only = False
+17/08/2018 BROWSER INFO: level =Severe, message =http://idgunny.360game.vn/server-game?&sid=none&err=1&mess=succ&sid=eQEVfhoteR8NLnIbXio0bCdzAyMvFSQ8dwEcFVt2Nxw 870:41 Uncaught ReferenceError: objAds is not defined
+17/08/2018 BROWSER INFO: level =Severe, message =http://css.f.360game.vn/v1/images/logo_360_small.jpg - Failed to load resource: the server responded with a status of 404 (Not Found)
+17/08/2018 636700960198754538_COOKIE INFO: name = GUNNYID, value =7cub04ao2sme1b33o7bmdt7905,domain = idgunny.360game.vn, expiry = , http_only = False
+17/08/2018 636700960198754538_COOKIE INFO: name = track.uuid, value =STzTOxs80z9Sa9JpR3DQbUo7yWMbZdJ3R2_UaU5sh2oZPoFjf13kWg,domain = .360game.vn, expiry = , http_only = True
+17/08/2018 636700960198754538_COOKIE INFO: name = _gat_UA-49607398-3, value =1,domain = .360game.vn, expiry = 8/17/2018 9:47:50 AM, http_only = False
+17/08/2018 636700960198754538_COOKIE INFO: name = _gid, value =GA1.2.402723293.1534474010,domain = .360game.vn, expiry = 8/18/2018 9:46:55 AM, http_only = False
+17/08/2018 636700960198754538_COOKIE INFO: name = _ga, value =GA1.2.660231161.1534474010,domain = .360game.vn, expiry = 8/16/2020 9:46:55 AM, http_only = False
+17/08/2018 636700960198754538_COOKIE INFO: name = vngauth, value =eQEVfhoteR8NLnIbXio0bCdzAyMvFSQ8dwEcFVt2Nxw,domain = .360game.vn, expiry = , http_only = False
+17/08/2018 636700960198754538_COOKIE INFO: name = session_info, value =eQEVfhoteR8NLnIbXio0bCdzAyMvFSQ8dwEcFVt2Nxw,domain = idgunny.360game.vn, expiry = , http_only = False
